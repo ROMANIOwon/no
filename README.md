@@ -1,1 +1,1 @@
-# no
+do javascript:[code]
